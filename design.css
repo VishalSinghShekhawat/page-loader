@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#loading{
+    position: fixed;
+    width: 100%;
+   height: 100vh;
+   background: #000 url('https://sonomafb.org/wp-content/themes/theme001/images/loader.svg')
+   no-repeat center ;
+   z-index: 99999;
+}
